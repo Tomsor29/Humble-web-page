@@ -1,0 +1,55 @@
+
+.cuerpo {
+    background-color: aqua;
+
+
+}
+
+
+#nav {
+    background-color: aquamarine;
+    padding: 20px 20px;
+    border: 4px inset yellowgreen;
+
+
+
+}
+
+.tipo{
+    position: relative;
+    bottom: 35px;
+    left: 20px;
+    color: black;
+    text-decoration: solid;
+    text-decoration: none;
+    font-family: 'Tenor Sans', sans-serif;
+}
+.tipo2{
+    position: relative;
+    bottom: 35px;
+    left: 500px;
+    color: black;
+    text-decoration: solid;
+    text-decoration: none;
+    font-family: 'Tenor Sans', sans-serif;
+
+}
+
+.tipo3{
+    position: relative;
+    bottom: 35px;
+    left: 1090px;
+    color: black;
+    text-decoration: solid;
+    text-decoration: none;
+    font-family: 'Tenor Sans', sans-serif;
+
+}
+
+.reg{
+    position: relative;
+    top: 100px;
+    left: 500px;
+
+
+}
